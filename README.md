@@ -4,9 +4,9 @@ In this repository, you can find the [official Genymotion public feedbacks cente
 
 | **Feedback Category** | **Product** 	|
 |---	|---	|
-| 🖥️  [Genymotion Desktop](https://github.com/Genymobile/feedback/discussions/categories/desktop-feedback) 	| [Genymotion Desktop](https://docs.genymotion.com/desktop) |
-| 🪐  [Device Image](https://github.com/Genymobile/feedback/discussions/categories/device-image-feedback) 	| [Device Image](https://docs.genymotion.com/paas/) 	|
-| 🌎  [Genymotion SaaS](https://github.com/Genymobile/feedback/discussions/categories/saas-feedback) 	| [Genymotion SaaS](https://docs.genymotion.com/saas/) 	|
+| 🖥️  [Genymotion Desktop](https://github.com/Genymobile/feedback/discussions/categories/genymotion-desktop) 	| [Genymotion Desktop](https://docs.genymotion.com/desktop) |
+| 🪐  [Device Image](https://github.com/Genymobile/feedback/discussions/categories/genymotion-device-image) 	| [Device Image](https://docs.genymotion.com/paas/) 	|
+| 🌎  [Genymotion SaaS](https://github.com/Genymobile/feedback/discussions/categories/genymotion-saas) 	| [Genymotion SaaS](https://docs.genymotion.com/saas/) 	|
 
 
 Have ideas or feedback for how we can further improve our products? This place is where you can share them or react to existing ones. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
@@ -29,3 +29,7 @@ Once you kick off a discussion, the Genymotion product team will evaluate the fe
 
 - Either we decide to prioritize your idea and so we will keep you informed.
 - Or we decide to not prioritize it and we may comment on the discussion describing our reasoning.
+
+## Disclaimer
+
+Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to Genymobile as of the date they are made, and Genymobile assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and are intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
