@@ -21,7 +21,7 @@ Open a discussion in the category specific to your feedback and we'll review you
 
 Please keep in mind that this area is for feedback only. Your feedback is very important to us as it helps us to prioritize our roadmap.
 
-Don't forget to take a look at previous discussions to see if someone already submitted your suggestions. If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new discussion.
+Don't forget to take a look at previous discussions to see if someone already submitted your suggestions. If you find a similar discussion, reply with additional details or upvote the discussion to notify your support rather than creating a new discussion.
 
 ### From a suggestion to a shipped feature
 
