@@ -5,8 +5,8 @@ In this repository, you can find the [official Genymotion public feedbacks cente
 | **Feedback Category** | **Product** 	|
 |---	|---	|
 | 🖥️  [Genymotion Desktop](https://github.com/Genymobile/feedback/discussions/categories/genymotion-desktop) 	| [Genymotion Desktop](https://docs.genymotion.com/desktop) |
-| 🪐  [Device Image](https://github.com/Genymobile/feedback/discussions/categories/genymotion-device-image) 	| [Device Image](https://docs.genymotion.com/paas/) 	|
-| 🌎  [Genymotion SaaS](https://github.com/Genymobile/feedback/discussions/categories/genymotion-saas) 	| [Genymotion SaaS](https://docs.genymotion.com/saas/) 	|
+| 📱  [Device Image](https://github.com/Genymobile/feedback/discussions/categories/genymotion-device-image) 	| [Device Image](https://docs.genymotion.com/paas/) 	|
+|  ☁️ [Genymotion SaaS](https://github.com/Genymobile/feedback/discussions/categories/genymotion-saas) 	| [Genymotion SaaS](https://docs.genymotion.com/saas/) 	|
 
 
 Have ideas or feedback for how we can further improve our products? This place is where you can share them or react to existing ones. Check out [Making suggestions](#making-suggestions) to learn how to provide feedback.
