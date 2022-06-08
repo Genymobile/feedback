@@ -9,7 +9,7 @@ In this repository, you can find the [official Genymotion public feedbacks cente
 |  ☁️ [Genymotion SaaS](https://github.com/Genymobile/feedback/discussions/categories/genymotion-saas) 	| [Genymotion SaaS](https://docs.genymotion.com/saas/) 	|
 
 
-Wish to help us improve our products? Feel free to [make a suggestions](#making-suggestions) to share your ideas and feedback here!
+Wish to help us improve our products? Feel free to [make a suggestion](#making-suggestions) to share your ideas and feedback here!
 
 Discussion categories have been established for specific products; topics outside of the listed categories above, will be transferred into the general category.
 
