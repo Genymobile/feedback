@@ -21,7 +21,7 @@ We encourage you to [open a discussion](https://github.com/Genymobile/feedback/d
 
 Open a discussion in the category specific to your feedback and we'll review your suggestions. The community will also be able to react to your submission.
 
-Please keep in mind that this area is for feedback and suggestions only; it is not suitable for technical support requests.
+**Please keep in mind that this area is for feedback and suggestions only; it is not suitable for technical support requests.**
 
 Your feedback is very important to us as it helps us to prioritize our roadmap.
 
